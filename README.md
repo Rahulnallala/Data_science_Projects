@@ -5,7 +5,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 
 
 ## Projects
-1. [Breast Cancer Prediction]([https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects/tree/main/Breast%20Cancer%20Prediction](https://github.com/Rahulnallala/Data_science_Projects/tree/main/Belarus%20Car%20Price%20Prediction))
+1. [Breast Cancer Prediction]([https://github.com/Rahulnallala/Data_science_Projects/tree/main/Belarus%20Car%20Price%20Prediction])
    - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
    - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
    - **Results:** The logistic regression gave 97% accuracy and decision tree gave 93.5% accuracy
